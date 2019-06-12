@@ -8,7 +8,7 @@
 typedef         uint8_t       BOOL;         // b
 typedef         uint8_t       BYTE;         // by
 typedef         uint16_t      WORD;         // w
-typedef         int16_t       SHORT;        // s
+typedef         int16_t       SHORT;        // sh (s is for struct)
 typedef         uint32_t      DWORD;        // dw
 typedef         int32_t       LONG;         // l
 typedef         uint64_t      QWORD;        // qw
